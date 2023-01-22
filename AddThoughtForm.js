@@ -13,11 +13,11 @@ export function AddThoughtForm(props) {
       text: text,
       expiresAt: getNewExpirationTime()
     }
-    
     if (text.length > 0) {
       props.addThought(thought);
     setText('');
     }
+
   }
 
   return (
