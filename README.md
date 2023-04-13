@@ -13,9 +13,11 @@ Welcome to Passing Thoughts, a place for your fleeting ideas and random musings.
 ## Getting Started
 
 To use Passing Thoughts, simply navigate to the website and enter your short thought in the text box. Click the submit button, and your thought will be displayed on the page for 15 seconds before disappearing forever. You can submit as many thoughts as you like, but remember that each one will only be visible for a short time.
+
 ## Screenshots
 
-
+<img src="main.png" width=300 />
+<img src="thoughts.png" width=300 />
 
 
 ## Authors
