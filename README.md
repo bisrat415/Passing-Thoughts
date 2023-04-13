@@ -16,8 +16,8 @@ To use Passing Thoughts, simply navigate to the website and enter your short tho
 
 ## Screenshots
 
-<img src="main.png" width=300 />
-<img src="thoughts.png" width=300 />
+<img src="images/main.png" width="300" />
+<img src="images/thoughts.png" width="300" />
 
 
 ## Authors
